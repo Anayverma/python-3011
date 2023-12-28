@@ -1,0 +1,11 @@
+print("this is the program to calculate the probability of  getting an ACE in a card game .")
+print("We know there are 52 card in a deck of cards.")
+print("For a unbiased deck of card total number of favourable outcome is 4 but we don't know for an unbiased deck of cards ")
+fav=int(input("Number of favourable outcome for getting an ACE =>"))
+print("Hence the number of favouravle outcome for getting a ACE form a deck randomly is equal to ")
+prob=fav/52
+print()
+print()
+print("RESULT")
+print("Probability of getting an ACE is => ",prob)
+print(bytes([65,66]))
